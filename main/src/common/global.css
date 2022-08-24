@@ -1,0 +1,7 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+.item-title {
+    border: 2px purple solid;
+}
